@@ -5,7 +5,7 @@ The fist answer is https://github.com/xinyihaha/Practice/blob/master/app/src/mai
 
 
 
-The second code is https://github.com/xinyihaha/Practice/blob/master/app/src/main/res/layout/relativelayout.xml.xml
+The second code is https://github.com/xinyihaha/Practice/blob/master/app/src/main/res/layout/relativelayout.xml
 The second answer is https://github.com/xinyihaha/Practice/blob/master/app/src/main/res/2.png
 
 
